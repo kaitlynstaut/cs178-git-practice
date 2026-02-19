@@ -5,3 +5,5 @@ My favorite color is: purple
 My favorite animal is: cat
 
 My favorite fruit: raspberries
+
+My favorite movie: "Harry Potter"
